@@ -1,0 +1,9 @@
+{
+    "zeng-color-picker.Preview.MatchPatterns": [
+        "#RRGGBB!",
+        "#RGB!",
+        "gray(\"W\")",
+        "#ARGB!"
+    ],
+    "color-highlight.enable": false
+}
